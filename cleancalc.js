@@ -15,7 +15,7 @@ var cleancalc = {
         return arg1 * arg2;
     },
 
-    devide: function (arg1, arg2) {
+    divide: function (arg1, arg2) {
         return arg1 / arg2;
     },
 
